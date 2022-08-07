@@ -1,0 +1,10 @@
+package com.sample.www;
+
+import org.openqa.selenium.By;
+
+public class MainPage {
+
+    public static By btnSearch = By.id("gi_search_btn");
+    public static By txtSearchBox = By.id("gi_search_btn");
+   
+}

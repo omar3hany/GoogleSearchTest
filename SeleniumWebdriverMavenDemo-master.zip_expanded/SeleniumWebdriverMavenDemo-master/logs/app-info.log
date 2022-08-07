@@ -1,0 +1,137 @@
+[INFO ] 2022-08-07 16:17:00.207 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:17:03.656 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:17:03.662 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:17:03.668 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:17:03.715 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:17:06.323 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:17:06.327 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:17:06.328 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:17:08.199 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:17:08.208 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:19:16.248 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:19:18.323 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:19:18.327 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:19:18.332 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:19:18.373 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:19:20.179 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:19:20.182 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:19:20.185 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:19:22.024 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:19:22.030 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:20:10.168 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:20:12.545 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:20:12.550 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:20:12.556 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:20:12.600 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:20:14.595 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:20:14.599 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:20:14.602 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:20:16.490 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:20:16.500 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:21:08.137 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:21:10.410 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:21:10.413 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:21:10.420 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:21:10.464 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:21:12.490 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:21:12.494 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:21:12.496 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:21:14.444 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:21:14.454 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:29:47.323 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:29:49.179 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:29:49.184 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:29:49.190 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:29:49.236 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:29:52.083 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:29:52.087 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:29:52.089 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:29:54.875 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:29:54.883 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:32:16.363 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:32:18.882 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:32:18.889 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:32:18.897 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:32:18.952 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:32:21.356 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:32:21.361 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:32:21.364 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:32:24.489 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:32:24.499 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:34:20.482 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:34:22.161 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:34:22.165 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:34:22.171 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:34:22.222 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:34:24.441 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:34:24.444 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:34:24.446 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:34:28.198 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:34:28.209 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:35:10.516 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:35:11.949 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:35:11.953 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:35:11.959 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:35:12.014 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:35:14.070 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:35:14.073 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:35:14.075 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:35:15.991 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:35:15.997 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:38:55.851 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:38:57.597 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:38:57.600 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:38:57.606 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:38:57.650 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:39:04.470 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:39:04.477 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:39:04.478 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:39:06.307 [main] GoogleSearch - Click on Page Two Button with
+[INFO ] 2022-08-07 16:39:07.111 [main] GoogleSearch - Click on Page Three Button
+[INFO ] 2022-08-07 16:39:07.119 [main] GoogleSearch - Number of results is the same.
+[INFO ] 2022-08-07 16:39:57.984 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:39:59.387 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:39:59.397 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:39:59.404 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:39:59.450 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:40:01.495 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:40:01.499 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:40:01.501 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:40:03.452 [main] GoogleSearch - Click on Page Two Button with
+[INFO ] 2022-08-07 16:40:05.331 [main] GoogleSearch - Click on Page Three Button
+[INFO ] 2022-08-07 16:40:05.342 [main] GoogleSearch - Number of results is the same.
+[INFO ] 2022-08-07 16:41:57.630 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:41:59.194 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:41:59.197 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:41:59.203 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:41:59.248 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:42:01.649 [main] GoogleSearch - Click on search button with entering any details.
+[ERROR] 2022-08-07 16:42:01.652 [main] GoogleSearch - Search Fails
+[INFO ] 2022-08-07 16:42:01.654 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:42:03.461 [main] GoogleSearch - Click on Page Two Button with
+[INFO ] 2022-08-07 16:42:05.310 [main] GoogleSearch - Click on Page Three Button
+[INFO ] 2022-08-07 16:42:05.319 [main] GoogleSearch - Number of results is the same.
+[INFO ] 2022-08-07 16:47:31.897 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 16:47:33.380 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 16:47:33.385 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 16:47:33.391 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 16:47:33.437 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 16:47:35.861 [main] GoogleSearch - Click on search button with entering any details.
+[INFO ] 2022-08-07 16:47:35.863 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:47:37.656 [main] GoogleSearch - Click on Page Two Button with
+[ERROR] 2022-08-07 16:47:37.664 [main] GoogleSearch - Number of results is different
+[INFO ] 2022-08-07 16:47:37.667 [main] GoogleSearch - Verify Scrolling
+[INFO ] 2022-08-07 16:47:39.716 [main] GoogleSearch - Click on Page Three Button
+[INFO ] 2022-08-07 16:47:39.730 [main] GoogleSearch - Number of results is the same.
+[INFO ] 2022-08-07 17:00:57.433 [main] GoogleSearch - Verify URL
+[INFO ] 2022-08-07 17:01:01.227 [main] GoogleSearch - Open URL
+[INFO ] 2022-08-07 17:01:01.231 [main] GoogleSearch - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-08-07 17:01:01.236 [main] GoogleSearch - Verify Search
+[INFO ] 2022-08-07 17:01:01.278 [main] GoogleSearch - Entering Vodafone in the search box.
+[INFO ] 2022-08-07 17:01:04.456 [main] GoogleSearch - Click on search button with entering any details.
+[INFO ] 2022-08-07 17:01:04.458 [main] GoogleSearch - Verify Scrolling 2
+[INFO ] 2022-08-07 17:01:06.323 [main] GoogleSearch - Click on Page Two Button with
+[INFO ] 2022-08-07 17:01:06.336 [main] GoogleSearch - Verify Scrolling 3
+[INFO ] 2022-08-07 17:01:08.256 [main] GoogleSearch - Click on Page Three Button
+[INFO ] 2022-08-07 17:01:08.269 [main] GoogleSearch - Number of search results
+[INFO ] 2022-08-07 17:01:08.270 [main] GoogleSearch - Number of results is the same.

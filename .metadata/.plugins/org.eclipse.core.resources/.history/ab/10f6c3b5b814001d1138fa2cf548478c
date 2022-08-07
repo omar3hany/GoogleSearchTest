@@ -1,0 +1,17 @@
+package com.sample.www;
+
+import org.openqa.selenium.By;
+
+public class SearchPage {
+    public static By navigationNumbers = By.xpath("//div[@role='navigation']");
+    
+    
+    public static By pageTwoBtn = By.xpath("//a[@aria-label='Page 2']");
+    
+    public static By searchRes = By.xpath("//div[@class='v7W49e']");
+
+    
+    
+
+
+}

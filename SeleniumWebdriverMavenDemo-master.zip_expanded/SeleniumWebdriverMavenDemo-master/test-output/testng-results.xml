@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-07T17:00:57 EET" name="Default suite" finished-at="2022-08-07T17:01:08 EET" duration-ms="10857">
+    <groups>
+    </groups>
+    <test started-at="2022-08-07T17:00:57 EET" name="Default test" finished-at="2022-08-07T17:01:08 EET" duration-ms="10857">
+      <class name="com.sample.www.GoogleSearch">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:00:54 EET" name="setUp" finished-at="2022-08-07T17:00:57 EET" duration-ms="2501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyGoogleOpened()[pri:1, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:00:57 EET" name="VerifyGoogleOpened" finished-at="2022-08-07T17:01:01 EET" duration-ms="3805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGoogleOpened -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:01 EET" name="tearDown" finished-at="2022-08-07T17:01:01 EET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyGoogleOpened status=SUCCESS method=GoogleSearch.VerifyGoogleOpened()[pri:1, instance:com.sample.www.GoogleSearch@737a135b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="VerifyVodafoneSearch()[pri:2, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:01 EET" name="VerifyVodafoneSearch" finished-at="2022-08-07T17:01:04 EET" duration-ms="3221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyVodafoneSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:04 EET" name="tearDown" finished-at="2022-08-07T17:01:04 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyVodafoneSearch status=SUCCESS method=GoogleSearch.VerifyVodafoneSearch()[pri:2, instance:com.sample.www.GoogleSearch@737a135b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="VerifyScrollDownPageTwo()[pri:3, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:04 EET" name="VerifyScrollDownPageTwo" finished-at="2022-08-07T17:01:06 EET" duration-ms="1875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyScrollDownPageTwo -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:06 EET" name="tearDown" finished-at="2022-08-07T17:01:06 EET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyScrollDownPageTwo status=SUCCESS method=GoogleSearch.VerifyScrollDownPageTwo()[pri:3, instance:com.sample.www.GoogleSearch@737a135b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="VerifyScrollDownPagThree()[pri:4, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:06 EET" name="VerifyScrollDownPagThree" finished-at="2022-08-07T17:01:08 EET" duration-ms="1934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyScrollDownPagThree -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:08 EET" name="tearDown" finished-at="2022-08-07T17:01:08 EET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyScrollDownPagThree status=SUCCESS method=GoogleSearch.VerifyScrollDownPagThree()[pri:4, instance:com.sample.www.GoogleSearch@737a135b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="VerifyNumberOfSearchResults()[pri:5, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:08 EET" name="VerifyNumberOfSearchResults" finished-at="2022-08-07T17:01:08 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyNumberOfSearchResults -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:08 EET" name="tearDown" finished-at="2022-08-07T17:01:08 EET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyNumberOfSearchResults status=SUCCESS method=GoogleSearch.VerifyNumberOfSearchResults()[pri:5, instance:com.sample.www.GoogleSearch@737a135b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sample.www.GoogleSearch@737a135b]" started-at="2022-08-07T17:01:08 EET" name="tearDown" finished-at="2022-08-07T17:01:09 EET" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sample.www.GoogleSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

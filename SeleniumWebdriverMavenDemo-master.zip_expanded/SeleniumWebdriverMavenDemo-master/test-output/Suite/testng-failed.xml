@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="2">
+  <test thread-count="5" name="Test(failed)" verbose="2">
+    <classes>
+      <class name="com.sample.www.TC01MainPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="tc02VerifyOneWayFlights"/>
+        </methods>
+      </class> <!-- com.sample.www.TC01MainPage -->
+      <class name="com.sample.www.TC02Flights">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="tc01VerifyPageResults"/>
+          <include name="tc02VerifyApplyFilters"/>
+        </methods>
+      </class> <!-- com.sample.www.TC02Flights -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
